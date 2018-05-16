@@ -6,7 +6,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <CenteredHeader>Hi! I'm Sophia. I'm a software developer based in NYC.</CenteredHeader>
+        <CenteredHeader>Hi! I'm Patrik. I'm a software developer based in NYC.</CenteredHeader>
         <p>
           I'm comfortable throughout the stack, but my passion lies in the front end, at the intersection of code and design. I currently build software for the newsroom at the New York Times.
         </p>

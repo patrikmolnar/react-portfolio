@@ -9,7 +9,7 @@ def lambda_handler(event, context):
     topic = sns.Topic('arn:aws:sns:ap-southeast-1:202433929926:DeployPortfolio')
     
     location = {
-        "bucketName": 'react.patrikmolnar.com',
+        "bucketName": 'reactbuild.patrikmolnar.com',
         "objectKey": 'reactbuild.zip'
     }
     
